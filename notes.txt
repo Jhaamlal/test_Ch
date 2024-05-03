@@ -1,0 +1,8 @@
+Develop a web application with the below REST endpoint and display the data in table 
+ 
+Endpoint: dummyjson.com/products
+ 
+1) call the api - show the data in console
+2) display title, Price and thumbnail in table
+ 
+TechStack to use: NextJs(Preferred)/Reactjs, Material UI, any CSS
